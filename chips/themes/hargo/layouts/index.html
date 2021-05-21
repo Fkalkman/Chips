@@ -19,7 +19,7 @@
         {{ with .video }}
         <a data-toggle="modal" data-src="{{ .videoURL | safeURL }}" data-target="#videoModal"
           class="text-color video-modal"><i
-            class="ti-control-play bg-gradient hover-shadow btn-play mr-2"></i><span>Watch Video</span></a>
+            class="ti-control-play bg-gradient hover-shadow btn-play mr-2"></i><span>Bekijk Video</span></a>
         {{ end }}
         <!-- Modal -->
         <div class="modal fade" id="videoModal" tabindex="-1" role="dialog" aria-hidden="true">
@@ -186,7 +186,7 @@
             <button class="snipcart-add-item btn btn-sm btn-outline-primary" data-item-id="{{ .Params.ProductID }}"
               data-item-name="{{ .Title }}" {{ range first 1 .Params.Images }} data-item-image="{{ .image | absURL }}"
               {{ end }} data-item-price="{{ .Params.Price }}" data-item-url="{{ .Permalink }}" data-item-description="{{ .Description }}">
-              Add to cart
+              Toevoegen aan winkelwagen
             </button>
           </div>
         </div>

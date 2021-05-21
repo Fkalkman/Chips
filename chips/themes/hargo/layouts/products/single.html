@@ -27,12 +27,12 @@
           {{ end }}
           <span class="lead text-primary font-weight-medium">{{ site.Params.currencySymbol }}{{ .Params.Price }}</span>
         </div>
-        <h5>Short Description</h5>
+        <h5>Korte beschrijving</h5>
         <p>{{ .Params.ShortDescription | markdownify }}</p>
         <button class="snipcart-add-item btn btn-primary" data-item-id="{{ .Params.ProductID }}"
           data-item-name="{{ .Title }}" {{ range first 1 .Params.Images }} data-item-image="{{ .image | absURL }}"
           {{ end }} data-item-price="{{ .Params.Price }}" data-item-url="{{ .Permalink }}" data-item-description="{{ .Description }}">
-          Add to cart
+          Toevoegen Aan Winkelwagen
         </button>
       </div>
       <div class="col-12 mt-5">
