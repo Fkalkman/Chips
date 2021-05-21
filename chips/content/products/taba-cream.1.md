@@ -1,14 +1,14 @@
 ---
-title: "Taba Cream"
+title: "flamin' hot cheetos 226G"
 date: 2019-10-17T11:22:16+06:00
 draft: false
 
 # meta description
-description : "For Glowing Skin"
+description : "Hete chips"
 
 # product Price
-price: "20.00"
-priceBefore: "25.00"
+price: "3,50"
+priceBefore: ""
 
 # Product Short Description
 shortDescription: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut"
@@ -22,10 +22,8 @@ type: "products"
 # product Images
 # first image will be shown in the product page
 images:
-  - image: "images/products/product-2.png"
-  - image: "images/products/product-1.png"
-  - image: "images/products/product-3.png"
-  - image: "images/products/product-4.png"
+  - image: "images/Producten/flamin' hot-cheetos-Front.png"
+  - image: "images/Producten/flamin' hot-cheetos-Back.png"
 ---
 
 Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea 
