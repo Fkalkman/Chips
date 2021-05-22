@@ -2,8 +2,7 @@
 banner:
   enable : true
   title : "De lekkerste Amerikaanse chips!"
-  content : "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et
-          dolore magna aliquyam erat, sed dia"
+  content : "Heb jij altijd al de gekste heetste en lekkerste chips willen proberen die jij ziet op tiktok. Kijk dan nu bij alle producten en bestel!!"
   image : "images/Producten/Cheetos-Logo.png"
   # button
   button:
@@ -18,16 +17,15 @@ banner:
 ########################## About ##############################
 about:
   enable : true
-  title : "About Our Product"
-  content : "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et
-          dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet
-          clita kasd gubergren,"
-  image : "images/about.png"
+  title : "Over de Chips"
+  content : "Dit soort chips is in nederland niet in de supermarkt te koop. Hier in Nederland kennen wij deze chips eigenlijk niet terwijl in amerika het in elke schappen ligt.\
+  Wie wilt nou deze chips niet proberen. "
+  image : "images/Producten/Hoofd-Pagina.jpg"
 
 
 ###################### Call to action ########################
 cta:
-  enable : true
+  enable : false
   title : "Buy one Get One Free Taba Cream"
   content : "Available for limited time only. Grab one while you still can!"
   image : "images/cta.png"
@@ -38,10 +36,9 @@ cta:
 
 ######################## raw material #######################
 material:
-  enable : true
-  title : "Ingredients Of Our Products"
-  subtitle : "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et
-          dol."
+  enable : False
+  title : "Hoe zien de Chips er uit?"
+  subtitle : "De flamin' hot cheetos zien er niet hetzelfde uit als hoe wij gewend zijn."
   materialItem:
     # material item loop
     - title : "Matcha Seeds"
@@ -98,7 +95,7 @@ products:
 
 ########################## Testimonial ########################
 testimonial:
-  enable : true
+  enable : False
   title : "What People Are Saying <br> About Our Product"
   testimonialItem:
     # testimonial item loop

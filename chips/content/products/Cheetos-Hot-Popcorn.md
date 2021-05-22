@@ -11,7 +11,7 @@ price: "4,25"
 priceBefore: ""
 
 # Product Short Description
-shortDescription: "De flamin'hot cheetos zijn super spicy maar ook super knapperig. Ben jij klaar voor deze populaire chips? Bestel ze snel!"
+shortDescription: "De flamin'hot Popcorn zijn super spicy. Ben jij klaar voor deze populaire popcorn? Bestel ze snel!"
 
 #product ID
 productID: "1"
@@ -27,6 +27,6 @@ images:
 
 Cheetos zijn een merk van kaaszoutjes, gemaakt door Frito-Lay. Er bestaan verschillende versies van. In Nederland zijn vooral de zachte zoutjes gemaakt van maïsmeel bekend. Cheetos is ontwikkeld in 1948 door Fritos-bedenker Charles Elmer. Oorspronkelijk werd de naam van het merk geschreven met een punt erin.
 
-In nederland kennen we deze chips niet zoals in Amerika. Deze chips is niet te vinden in de supermarkten hier in nederland. In Amerika daar in tegen is deze chips heel normaal, het ligt in elke supermarkt die je maar kan bedenken. 
+Ben je toch niet zo van de chips? Dan is er ook de optie popcorn. Deze popcorn is super spicy. Ze hebben de zelfde smaak als de chips. 
 
-De flamin'hot cheetos is de heetste cheetos die is gemaakt. Toen deze cheetos werden geïntroduceerd is er een challenge bedacht waarbij je zo veel mogelijk chips eet zonder te drinken. Durf jij deze challenge aan?
+Toen de popcorn werd geintroduceert is een challenge bedacht. Wie kan de meeste popcorn eten zonder te drinken? Durf jij deze spannende challenge aan. Bestel ze dan nu!!!!

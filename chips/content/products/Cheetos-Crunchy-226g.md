@@ -11,7 +11,7 @@ price: "4,00"
 priceBefore: ""
 
 # Product Short Description
-shortDescription: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut"
+shortDescription: "De zelfde chips als de Flamin' hot cheetos maar dan niet heet."
 
 #product ID
 productID: "2"
@@ -23,11 +23,9 @@ type: "products"
 # first image will be shown in the product page
 images:
   - image: "images/Producten/Cheetos-Crunchy-226g.png"
-  - image: "images/products/product-2.png"
+  - image: "images/Producten/flamin' hot-cheetos-Back.png"
 ---
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea 
+Cheetos zijn een merk van kaaszoutjes, gemaakt door Frito-Lay. Er bestaan verschillende versies van. In Nederland zijn vooral de zachte zoutjes gemaakt van maïsmeel bekend. Cheetos is ontwikkeld in 1948 door Fritos-bedenker Charles Elmer. Oorspronkelijk werd de naam van het merk geschreven met een punt erin.
 
-takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
-
-Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.
+Hou je toch niet zo van de hete chips dan heb je altijd nog de Cheetos Crunchy. Ze zijn super knapperig en niet heet. Deze cheetos hebben de zelfde kleur als de andere cheetos.
